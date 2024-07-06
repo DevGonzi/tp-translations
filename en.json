@@ -67,7 +67,14 @@
     "adm_approve_warn_user_banned_on_server": "User banned. He was on your server.",
     "adm_approve_warn_user_banned_not_on_server": "User banned. He was not on your server.",
     "adm_approve_warn_action_failed_on_server": "Action failed. He was on your server.",
-    "adm_approve_warn_action_failed_not_on_server": "Action failed. He was not on your server."
+    "adm_approve_warn_action_failed_not_on_server": "Action failed. He was not on your server.",
+    "usr_checkserver_no_users_found": "No banned or blacklisted users found.",
+    "usr_checkserver_banned_user_title": "Banned User",
+    "usr_checkserver_blacklisted_user_title": "Blacklisted User",
+    "usr_checkserver_user_id": "User ID",
+    "usr_checkserver_reason": "Reason",
+    "usr_checkserver_ban_button": "Ban User",
+    "usr_checkserver_kick_button": "Kick User"
   },
   "word_no": "No",
   "word_yes": "Yes",
