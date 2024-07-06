@@ -34,7 +34,8 @@
     "gma_account_older_than_min_days": "Das Konto ist älter als {minAccountAgeDays} Tage.",
     "gma_account_too_young_description": "**Account zu jung:** <@{memberId}>",
     "gma_account_too_young_kicked_title": "Zu jungen Account gekickt",
-    "gma_missing_kick_permission": "Der Bot hat nicht die Berechtigung, Mitglieder zu kicken.\n**Das Kicken von <@{memberId}> war nicht möglich!** {roleMentions}"
+    "gma_missing_kick_permission": "Der Bot hat nicht die Berechtigung, Mitglieder zu kicken.\n**Das Kicken von <@{memberId}> war nicht möglich!** {roleMentions}",
+    "gma_min_account_age": "Mindestkontenalter (Tage):"
   },
   "cmd": {
     "tpcheck_no_ban_entries": "Keine Banneinträge für diesen Benutzer gefunden.",
