@@ -1,7 +1,5 @@
 {
-  "bot_nickname": "Bot nickname",
-  "bot_nickname_set": "Bot nickname set to ",
-  "channel_created": " The channels were created: ",
+  "cfg_channel_created": " The channels were created: ",
   "cfg_choose_channel": "Choose a channel to configure:",
   "cfg_choose_config": "Choose the configuration type:",
   "cfg_choose_option": "Choose an option to configure:",
@@ -27,15 +25,13 @@
   "cfg_team_roles_set": "Team roles set to: ",
   "cfg_unban_sync": "Unban sync",
   "cfg_unban_sync_set": "Set unban sync to ",
+  "cfg_need_channelManage_perms": "The bot requires the `MANAGE CHANNELS` permission",
   "event_gma_account_creation_date": "Account created on:",
   "event_gma_account_not_older_than_min_days": "The account is not older than {minAccountAgeDays} days.",
   "event_gma_account_older_than_min_days": "The account is older than {minAccountAgeDays} days.",
   "event_gma_account_too_young_description": "**Account too young:** <@{memberId}>",
   "event_gma_account_too_young_kicked_title": "Account too young kicked",
   "event_gma_missing_kick_permission": "The bot does not have permission to kick members.\n**Kicking <@{memberId}> was not possible!** {roleMentions}",
-  "need_channelManage_perms": "The bot requires the `MANAGE CHANNELS` permission",
-  "no": "No",
-  "yes": "Yes",
   "cmd_tpcheck_no_ban_entries": "No ban entries found for this user.",
   "cmd_tpcheck_ban_entries_for_user": "Ban entries for user ID",
   "cmd_tpcheck_ban_entry_id": "Ban ID",
@@ -43,8 +39,8 @@
   "cmd_tpcheck_reason": "Reason",
   "cmd_tpcheck_reported_by": "Reported by",
   "cmd_tpcheck_approved": "Approved",
-  "cmd_tpcheck_yes": "Yes",
-  "cmd_tpcheck_no": "No",
   "cmd_tpcheck_approved_by": "Approved by",
-  "cmd_tpcheck_command_error": "There was an error executing the command."
+  "cmd_tpcheck_command_error": "There was an error executing the command.",
+  "no": "No",
+  "yes": "Yes"
 }
