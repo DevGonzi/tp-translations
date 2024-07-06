@@ -36,11 +36,21 @@
   "cmd_tpcheck_ban_entries_for_user": "Banneinträge für Benutzer-ID",
   "cmd_tpcheck_ban_entry_id": "Ban-ID",
   "cmd_tpcheck_user_name": "Benutzername",
-  "cmd_tpcheck_reason": "Grund",
   "cmd_tpcheck_reported_by": "Gemeldet von",
   "cmd_tpcheck_approved": "Genehmigt",
   "cmd_tpcheck_approved_by": "Genehmigt von",
   "cmd_tpcheck_command_error": "Beim Ausführen des Befehls ist ein Fehler aufgetreten.",
+  "cmd_tpwarn_warn_requested_for": "Warnung angefordert für",
+  "cmd_tpwarn_description": "Beschreibung",
+  "cmd_tpwarn_evidence": "Beweise",
+  "cmd_tpwarn_new_warning_request": "Neue Warnungsanfrage",
+  "cmd_tpwarn_reporter": "Reporter",
+  "cmd_tpwarn_server": "Server",
+  "cmd_tpwarn_reported_user": "Gemeldeter Benutzer",
+  "cmd_tpwarn_attachment": "Anhang",
+  "cmd_tpwarn_warning_id": "Warnungs-ID",
+  "cmd_tpwarn_none": "Keine",
   "word_no": "Nein",
-  "word_yes": "Ja"
+  "word_yes": "Ja",
+  "word_reason": "Grund"
 }

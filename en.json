@@ -36,11 +36,21 @@
   "cmd_tpcheck_ban_entries_for_user": "Ban entries for user ID",
   "cmd_tpcheck_ban_entry_id": "Ban ID",
   "cmd_tpcheck_user_name": "User name",
-  "cmd_tpcheck_reason": "Reason",
   "cmd_tpcheck_reported_by": "Reported by",
   "cmd_tpcheck_approved": "Approved",
   "cmd_tpcheck_approved_by": "Approved by",
   "cmd_tpcheck_command_error": "There was an error executing the command.",
+  "cmd_tpwarn_warn_requested_for": "Warn requested for",
+  "cmd_tpwarn_description": "Description",
+  "cmd_tpwarn_evidence": "Evidence",
+  "cmd_tpwarn_new_warning_request": "New Warning Request",
+  "cmd_tpwarn_reporter": "Reporter",
+  "cmd_tpwarn_server": "Server",
+  "cmd_tpwarn_reported_user": "Reported User",
+  "cmd_tpwarn_attachment": "Attachment",
+  "cmd_tpwarn_warning_id": "Warning ID",
+  "cmd_tpwarn_none": "None",
   "word_no": "No",
-  "word_yes": "Yes"
+  "word_yes": "Yes",
+  "word_reason": "Reason"
 }
