@@ -1,4 +1,13 @@
 {
+  "event": {
+    "gma_account_creation_date": "Account created on:",
+    "gma_account_not_older_than_min_days": "The account is not older than {minAccountAgeDays} days.",
+    "gma_account_older_than_min_days": "The account is older than {minAccountAgeDays} days.",
+    "gma_account_too_young_description": "**Account too young:** <@{memberId}>",
+    "gma_account_too_young_kicked_title": "Account too young kicked",
+    "gma_missing_kick_permission": "The bot does not have permission to kick members.\n**Kicking <@{memberId}> was not possible!** {roleMentions}",
+    "gma_min_account_age": "Minimum Account Age (days):"
+  },
   "cfg": {
     "channel_created": " The channels were created: ",
     "choose_channel": "Choose a channel to configure:",
@@ -27,15 +36,6 @@
     "unban_sync": "Unban sync",
     "unban_sync_set": "Set unban sync to ",
     "need_channelManage_perms": "The bot requires the `MANAGE CHANNELS` permission"
-  },
-  "event": {
-    "gma_account_creation_date": "Account created on:",
-    "gma_account_not_older_than_min_days": "The account is not older than {minAccountAgeDays} days.",
-    "gma_account_older_than_min_days": "The account is older than {minAccountAgeDays} days.",
-    "gma_account_too_young_description": "**Account too young:** <@{memberId}>",
-    "gma_account_too_young_kicked_title": "Account too young kicked",
-    "gma_missing_kick_permission": "The bot does not have permission to kick members.\n**Kicking <@{memberId}> was not possible!** {roleMentions}",
-    "gma_min_account_age": "Minimum Account Age (days):"
   },
   "cmd": {
     "tpcheck_no_ban_entries": "No ban entries found for this user.",
