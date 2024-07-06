@@ -67,7 +67,14 @@
     "adm_approve_warn_user_banned_on_server": "Benutzer gebannt. Er war auf deinem Server.",
     "adm_approve_warn_user_banned_not_on_server": "Benutzer gebannt. Er war nicht auf deinem Server.",
     "adm_approve_warn_action_failed_on_server": "Aktion fehlgeschlagen. Er war auf deinem Server.",
-    "adm_approve_warn_action_failed_not_on_server": "Aktion fehlgeschlagen. Er war nicht auf deinem Server."
+    "adm_approve_warn_action_failed_not_on_server": "Aktion fehlgeschlagen. Er war nicht auf deinem Server.",
+    "usr_checkserver_no_users_found": "Keine gesperrten oder auf die schwarze Liste gesetzten Benutzer gefunden.",
+    "usr_checkserver_banned_user_title": "Gesperrter Benutzer",
+    "usr_checkserver_blacklisted_user_title": "Auf die schwarze Liste gesetzter Benutzer",
+    "usr_checkserver_user_id": "Benutzer-ID",
+    "usr_checkserver_reason": "Grund",
+    "usr_checkserver_ban_button": "Benutzer sperren",
+    "usr_checkserver_kick_button": "Benutzer kicken"
   },
   "word_no": "Nein",
   "word_yes": "Ja",
