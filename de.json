@@ -41,6 +41,6 @@
   "cmd_tpcheck_approved": "Genehmigt",
   "cmd_tpcheck_approved_by": "Genehmigt von",
   "cmd_tpcheck_command_error": "Beim Ausführen des Befehls ist ein Fehler aufgetreten.",
-  "no": "Nein",
-  "yes": "Ja"
+  "word_no": "Nein",
+  "word_yes": "Ja"
 }

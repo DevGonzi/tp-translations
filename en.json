@@ -41,6 +41,6 @@
   "cmd_tpcheck_approved": "Approved",
   "cmd_tpcheck_approved_by": "Approved by",
   "cmd_tpcheck_command_error": "There was an error executing the command.",
-  "no": "No",
-  "yes": "Yes"
+  "word_no": "No",
+  "word_yes": "Yes"
 }
