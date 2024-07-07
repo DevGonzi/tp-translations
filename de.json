@@ -62,6 +62,7 @@
     "adm_approve_warn_evidence": "Beweise",
     "adm_approve_warn_action_failed": "Aktion fehlgeschlagen",
     "adm_approve_warn_warning_approved": "Warnung genehmigt mit ID",
+    "adm_approve_warn_user_banned_by": "Gebannt von",
     "adm_approve_warn_user_kicked_on_server": "Benutzer gekickt. Er war auf deinem Server.",
     "adm_approve_warn_user_kicked_not_on_server": "Benutzer gekickt. Er war nicht auf deinem Server.",
     "adm_approve_warn_user_banned_on_server": "Benutzer gebannt. Er war auf deinem Server.",
