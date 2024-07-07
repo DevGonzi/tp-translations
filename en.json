@@ -10,7 +10,6 @@
   },
   "cfg": {
     "channel_created": " The channels were created: ",
-    "choose_channel": "Choose a channel to configure:",
     "choose_config": "Choose the configuration type:",
     "choose_option": "Choose an option to configure:",
     "team_roles": "Team roles",
