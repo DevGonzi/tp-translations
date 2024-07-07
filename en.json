@@ -11,6 +11,7 @@
   "cfg": {
     "channel_created": " The channels were created: ",
     "choose_config": "Choose the configuration type:",
+    "choose_channel": "Choose a channel to configure:",
     "choose_option": "Choose an option to configure:",
     "team_roles": "Team roles",
     "configure_documentation": "Configure documentation channel",

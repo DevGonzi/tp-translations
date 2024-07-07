@@ -11,6 +11,7 @@
   "cfg": {
     "channel_created": " Die Kanäle wurden erstellt: ",
     "choose_config": "Wählen Sie den Konfigurationstyp:",
+    "choose_channel": "Wählen Sie einen Kanal zur Konfiguration:",
     "choose_option": "Wählen Sie eine Option zur Konfiguration:",
     "team_roles": "Teamrollen",
     "configure_documentation": "Dokumentationskanal konfigurieren",
