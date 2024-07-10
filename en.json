@@ -89,7 +89,15 @@
     "tpban_request_submitted_reason": "Reason",
     "tpban_request_submitted_description_field": "Description",
     "tpban_request_submitted_evidence": "Evidence",
-    "language_set": "Language set to **{languageCode}**\nNow use "
+    "language_set": "Language set to **{languageCode}**\nNow use ",
+    "show_config_title": "Current Configuration",
+    "show_config_description": "Here are the current settings for this server.",
+    "config_channel": "Channel",
+    "config_report_action": "Action for new global bans",
+    "config_min_account_age": "Minimum Account Age (Days)",
+    "config_unban_sync": "Unban Synchronization",
+    "config_not_found": "No configuration found for this server.",
+    "not_set": "Not Set"
   },
   "word_no": "No",
   "word_yes": "Yes",
