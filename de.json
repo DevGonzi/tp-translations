@@ -26,14 +26,14 @@
     "need_more_roles": "Es gibt weniger als 4 verfügbare Rollen. Bitte erstellen Sie mehr Rollen, bevor Sie fortfahren.",
     "no_options_selected": "Keine Optionen wurden ausgewählt.",
     "only_report": "Nur im Meldungskanal Melden",
-    "report_action": "Meldungsaktion",
+    "report_action": "Aktion für neue Globale banns",
     "report_action_set": "Aktion für gemeldete Benutzer festgelegt auf ",
     "run_again": "Für weitere Einstellungen führe den Befehl erneut aus!",
     "select_channel": "Wählen Sie einen Kanal aus",
     "select_config": "Wählen Sie den Konfigurationstyp",
     "team_roles_desc": "Wählen Sie bis zu 4 Rollen (mindestens 1 erforderlich)",
     "team_roles_set": "Teamrollen festgelegt auf: ",
-    "unban_sync": "Unban-Synchronisierung",
+    "unban_sync": "Mitglieder entbannen wenn der globale Ban aufgehoben wurde",
     "unban_sync_set": "Unban-Synchronisierung festgelegt auf ",
     "need_channelManage_perms": "Der Bot benötigt das Recht `MANAGE CHANNELS`"
   },
@@ -88,7 +88,8 @@
     "tpban_request_submitted_description": "Eine Ban-Anfrage für <@{userId}> wurde eingereicht.",
     "tpban_request_submitted_reason": "Grund",
     "tpban_request_submitted_description_field": "Beschreibung",
-    "tpban_request_submitted_evidence": "Beweise"
+    "tpban_request_submitted_evidence": "Beweise",
+    "language_set": "Sprache festgelegt aus **{languageCode}**\nJetzt ausführen: "
   },
   "word_no": "Nein",
   "word_yes": "Ja",

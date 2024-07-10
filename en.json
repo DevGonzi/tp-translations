@@ -26,7 +26,7 @@
     "need_more_roles": "There are less than 4 available roles. Please create more roles before proceeding.",
     "no_options_selected": "No options were selected.",
     "only_report": "Report only in the reporting channel",
-    "report_action": "Report action",
+    "report_action": "Action for new global bans",
     "report_action_set": "Action for reported users set to ",
     "run_again": "Run the command again for further settings!",
     "select_channel": "Select a channel",
@@ -88,7 +88,8 @@
     "tpban_request_submitted_description": "A ban request for <@{userId}> has been submitted.",
     "tpban_request_submitted_reason": "Reason",
     "tpban_request_submitted_description_field": "Description",
-    "tpban_request_submitted_evidence": "Evidence"
+    "tpban_request_submitted_evidence": "Evidence",
+    "language_set": "Language set to **{languageCode}**\nNow use "
   },
   "word_no": "No",
   "word_yes": "Yes",
